@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I study at Feng Chia University in Taiwan right now!  
+🔭 In my past study
 <!--
 **ShowXD/ShowXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
