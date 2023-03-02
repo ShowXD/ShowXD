@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://zh.wikipedia.org/wiki/File:Python-logo-notext.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/29877260/222379257-6507f783-38b6-4cfb-b333-c62ab3695b13.png" alt="python" width="40" height="40"/>
   </a> 
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
