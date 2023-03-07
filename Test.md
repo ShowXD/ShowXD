@@ -21,10 +21,10 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://www.djangoproject.com/)
 
 ### tools
-[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](https://www.djangoproject.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)]()
-[![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?logo=phpstorm&logoColor=white)]()
-[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](https://www.heroku.com/)
 
 ### os
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
