@@ -14,15 +14,17 @@
 
 ### framework
 [![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat)](https://www.djangoproject.com/)
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://www.djangoproject.com/)
 
 ### tools
+[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](https://www.djangoproject.com/)
 - Pycharm
 - PhpMyAdmin
 
 ### os
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
+[![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)]()
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
