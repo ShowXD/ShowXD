@@ -19,11 +19,12 @@
 ### framework
 [![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat)](https://www.djangoproject.com/)
 [![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://www.djangoproject.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
 ### tools
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
+[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](https://www.heroku.com/)
 
 ### os
