@@ -6,14 +6,12 @@
 ### language
 [![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)](https://www.python.org/)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -24,8 +22,9 @@
 
 ### tools
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](https://www.djangoproject.com/)
-- Pycharm
-- PhpMyAdmin
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)]()
+[![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?logo=phpstorm&logoColor=white)]()
+[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 
 ### os
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
@@ -33,12 +32,12 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)]()
 
 ## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]()
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/showxddd/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/gcobs164181)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnZudebIXYNS8LsZ4WkwxUw)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?logo=instagram&logoColor=B4068E)](https://www.instagram.com/ju_i_show)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?logo=linkedin&logoColor=007BB6)](https://ua.linkedin.com/in/evgeniy-han-356a16254?trk=people-guest_people_search-card)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198846102391/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/薛佾展-0a410a19b)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198160888281/)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxp10&theme=github_dark) 
