@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
