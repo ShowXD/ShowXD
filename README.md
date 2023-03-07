@@ -39,6 +39,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?logo=instagram&logoColor=B4068E)](https://www.instagram.com/ju_i_show)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/薛佾展-0a410a19b)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198160888281/)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxp10&theme=github_dark) 
