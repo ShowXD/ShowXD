@@ -6,6 +6,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShowXD/ShowXD/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Main language:
+[![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)](https://www.python.org/)
+
 ## Used language & tools:
 ### language
 [![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)](https://www.python.org/)
