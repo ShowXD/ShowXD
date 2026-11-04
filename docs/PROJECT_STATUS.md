@@ -2,12 +2,21 @@
 
 GitHub 個人主頁（`ShowXD/ShowXD`），內容只有 `README.md` 與產生貪吃蛇動畫的 workflow。
 
-## 目前狀態（2026-11-04，branch `main`，基於 `3af85cd`）
+## 目前狀態（2026-11-04，branch `main`）
 
-已完成，尚未 commit：
+已 commit 並 push（`d7d545c`）：
 
 - `README.md`：標語改為 Software Engineer；技能徽章依現有技能重寫並分組；Twitter 改為 X；修正 LinkedIn 連結；統一徽章樣式。
 - `.github/workflows/main.yml`：`crazy-max/ghaction-github-pages` 升到 `v5`（Node 24）；`Platane/snk/svg-only@v3` 維持不變。
+
+已修改，尚未 commit：
+
+- `.github/workflows/main.yml`：新增 `actions: write` 權限，以及每次執行時用 `gh api` 重新啟用自己的步驟，避免 repo 60 天沒有活動時排程被 GitHub 自動停用。
+  （原本常用的 `gautamkrishnar/keepalive-workflow` 已被 GitHub 封鎖，無法使用。）
+
+## 阻塞
+
+- 排程 workflow 目前處於停用狀態，需要手動到 Actions 頁面按 Enable workflow；停用期間連 push 也不會觸發。
 
 ## 驗證
 
@@ -22,4 +31,4 @@ GitHub 個人主頁（`ShowXD/ShowXD`），內容只有 `README.md` 與產生貪
 
 ## 下一步
 
-- 確認 diff 後 commit，push 到 main，觀察 Actions 執行結果。
+- 在 Actions 頁面啟用 `generate animation`，commit 並 push keepalive 的修改，再手動 Run workflow，確認三個步驟都成功、`output` 分支的 SVG 有更新。
